@@ -62,7 +62,7 @@ const Categorias = () => {
               Ver ubicación
             </Button>
           </Box>
-         <Image ml={20} maxH={"300px"} src="https://i.postimg.cc/65dXsKP4/toppng-com-dinner-food-png-freeuse-stock-plate-of-food-792x797.png"/>
+         <Image ml={2} maxH={"300px"} src="https://i.postimg.cc/65dXsKP4/toppng-com-dinner-food-png-freeuse-stock-plate-of-food-792x797.png"/>
         </SimpleGrid>
         <SimpleGrid
           alignItems="center"
