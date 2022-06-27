@@ -5,7 +5,7 @@ import { fonts } from './fonts'
 
 const config = {
     useSysyemColorMode: false,
-    initialColorMode: "light",
+    initialColorMode: "dark",
 }
 const theme = extendTheme({config, fonts })
 
