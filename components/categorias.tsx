@@ -62,7 +62,7 @@ const Categorias = () => {
               Ver ubicación
             </Button>
           </Box>
-         <Image ml={20} maxH={"400px"} src="https://i.postimg.cc/65dXsKP4/toppng-com-dinner-food-png-freeuse-stock-plate-of-food-792x797.png"/>
+         <Image ml={20} maxH={"300px"} src="https://i.postimg.cc/65dXsKP4/toppng-com-dinner-food-png-freeuse-stock-plate-of-food-792x797.png"/>
         </SimpleGrid>
         <SimpleGrid
           alignItems="center"
@@ -107,7 +107,7 @@ const Categorias = () => {
               Ver carta
             </Button>
           </Box>
-         <Image maxH={"500px"} src="https://i.postimg.cc/vT2GctWg/pngkit-food-in-plate-png-3597252.png"/>
+         <Image maxH={"400px"} src="https://i.postimg.cc/vT2GctWg/pngkit-food-in-plate-png-3597252.png"/>
         </SimpleGrid>
       </Box>
     </Flex>
